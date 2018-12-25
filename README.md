@@ -1,3 +1,16 @@
+# Andrew Escay's Personal Website
+
+This is my first time building a website through react!
+
+Feel free to send push requests or message me if you have suggestions.
+
+### TODOs:
+1. Make the landing page scrollable
+2. Have the projects adjust based on the size of the screen
+3. Migrate projects page to a content management site (possibly)
+
+-----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

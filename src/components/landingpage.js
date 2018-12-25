@@ -6,13 +6,13 @@ import logo from './logo3.jpeg'
 class Landing extends Component {
     render() {
         return(
-            <div style={{width: '100%', margin: 'auto'}}>
+            <div style={{width: '100%', margin: 'auto', overflow: 'auto'}}>
                 <Grid className='landing-grid'>
                     <Cell col={12}>
                         <img 
                             src={logo}
                             alt="avatar"
-                            className="avatar-img"
+                            className="avatar-img-landing"
                         />
 
 
